@@ -65,7 +65,7 @@ module.exports = {
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
     proxyTable: {},
-    // 由于css-loader在开启cssSourceMap时会引发相对路径的bug而关闭
+    // 由于css-loader在开启sourceMap时会引发相对路径的bug而关闭
     // 其实可通过设置webpack配置项output.publicPath为绝对路径的方式暂时解决
     cssSourceMap: false
   }
