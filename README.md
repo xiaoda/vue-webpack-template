@@ -72,10 +72,6 @@ selenium-debug.log
 
 > 项目说明
 
-### README.md
-
-> 就是我呀！
-
 ## 一级目录
 
 - build（编译脚本）
