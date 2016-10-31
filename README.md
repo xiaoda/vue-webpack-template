@@ -74,12 +74,12 @@ selenium-debug.log
 
 ## 一级目录
 
-- build（编译脚本）
+- [build](https://github.com/xiaoda/vue-webpack-template/tree/master/build)（编译脚本）
 - [config](https://github.com/xiaoda/vue-webpack-template/tree/master/config)（配置文件）
 - node_modules（项目依赖）
-- src（项目代码）
+- [src](https://github.com/xiaoda/vue-webpack-template/tree/master/src)（项目代码）
 - [static](https://github.com/xiaoda/vue-webpack-template/tree/master/static)（静态文件）
-- test（测试文件）
+- [test](https://github.com/xiaoda/vue-webpack-template/tree/master/test)（测试文件）
 
 ## 默认脚本
 
